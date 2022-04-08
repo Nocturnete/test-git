@@ -1,1 +1,50 @@
 # test-git
+
+Gerard
+
+## Introducción
+
+Esto es un ejemplo de un proyecto de **Markdown**
+
+
+Porque mola **Markdown**
+
+   * Porque es facil
+   * Porque es universal
+   * Porque lo dice el Alfonso
+
+
+
+[Click aqui por si quieres saber más sobre Markdown](https://www.markdown.es)
+
+
+
+Un poco de codigo html :
+
+<HTML>
+<HEAD>
+    <TITLE>Un Titulo para el Browser de turno </TITLE>
+</HEAD>
+<BODY>
+    <!-- Aqui va todo lo chachi -->
+    <H1>Otro t&iacute;tulo, esta vez m&aacute;s largo. </H1>
+        <P>Esto es un parrafo con informacion super importante. Notese que las lineas salen pegadas aun dejando espacios, saltos de linea, etc.
+            <BR> &#161 Si pongo esto si
+            <STRONG>cambia </STRONG> de linea!
+            <P>Otro parrafo, esto ya es un poco rollo.
+                <H3>Pongamos un subtítulo
+                    <H3>
+                        <P>Por cierto, &#191 que paso con las
+                            <A HREF="#pepe ">anclas</A>?
+                            <HR>
+                            <UL>
+                                <LI> Esto es una lista no ordenada.
+                                <LI> Las listas quedan mejor si tienen varios elementos.
+                            </UL>
+                            Me voy al
+                            <A HREF="http://www.iac.es/home.html ">IAC</A>.
+                            <P>Vamos a crear un
+                                <EM>ancla </EM>, o lo que es lo mismo, un
+                                <A NAME="pepe">anchor.</A>
+</BODY>
+</HTML>

@@ -15,7 +15,7 @@ Porque mola **Markdown**
 
 
 
-[Click aqui por si quieres saber más sobre Markdown](https://www.markdown.es)
+![Gato](./gat.jpg)
 
 
 
